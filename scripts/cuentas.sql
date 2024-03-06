@@ -5,3 +5,5 @@ create table cuentas(
     saldo money not null,
     constraint cuentas_pk primary key (numero_cuenta)
 );
+
+

@@ -6,3 +6,5 @@ create table productos(
     stock int not null,
     constraint productos_pk primary key (codigo)
 );
+
+

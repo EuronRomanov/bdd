@@ -7,3 +7,4 @@ create table transacciones(
     hora time not null ,
     constraint transacciones_pk primary key (codigo)
 );
+

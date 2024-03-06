@@ -1,0 +1,10 @@
+insert into transacciones values (1,'12006',234,'C','2022-10-21','11:45:00');
+insert into transacciones values (2,'12006',234.4,'D','2022-10-11','02:30:00');
+insert into transacciones values (3,'16886',197.4,'D','2022-09-12','04:40:00');
+insert into transacciones values (4,'12006',45.2,'D','2022-09-18','05:45:00');
+insert into transacciones values (5,'18996',100,'C','2022-10-11','06:07:00');
+insert into transacciones values (6,'12006',123.6,'C','2022-11-11','15:45:00');
+insert into transacciones values (7,'11116',900,'C','2022-10-25','10:06:00');
+insert into transacciones values (8,'11116',234,'D','2022-03-15','06:45:00');
+insert into transacciones values (9,'12006',102.4,'D','2022-02-07','07:04:00');
+insert into transacciones values (10,'18994',102.3,'C','2022-06-03','11:45:00');

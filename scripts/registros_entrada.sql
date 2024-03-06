@@ -5,3 +5,4 @@ create table registros_entrada(
     hora time not null,
     constraint registros_entrada_pk primary key (codigo_registro)
 );
+

@@ -1,0 +1,10 @@
+insert into cuentas values ('12345','09189',NOW(),134.7);
+insert into cuentas values ('12446','19100','2010-01-23',300);
+insert into cuentas values ('12006','29103','2010-10-01',400.78);
+insert into cuentas values ('12786','09888','2010-10-01',400.78);
+insert into cuentas values ('16886','12555','2010-10-01',480.08);
+insert into cuentas values ('18996','45510','2017-7-01',199.10);
+insert into cuentas values ('11116','99103','2018-9-01',1000.01);
+insert into cuentas values ('10989','90173','2017-10-01',12949.8);
+insert into cuentas values ('18999','59186','2020-8-01',556.10);
+insert into cuentas values ('18994','11913','2012-10-01',700.98);

@@ -5,3 +5,5 @@ create table videojuegos(
     valoracion int not null,
     constraint videojuegos_pk primary key (codigo)
 );
+
+
